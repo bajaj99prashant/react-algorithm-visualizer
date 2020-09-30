@@ -1,0 +1,19 @@
+.sorting-container {
+    width: 90vw;
+    margin: auto;
+    height: 90vh;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.sorting-bar {
+    width: 2px;
+    background-color: teal;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.array-generate {
+   display: inline-block;
+   margin: 0 5px;
+}
